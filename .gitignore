@@ -1,0 +1,6 @@
+# LaTex Related files #
+#######################
+*.aux
+*.log
+*.pdf
+*.gz
